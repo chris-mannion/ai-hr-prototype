@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/cec15ab6-bfd7-4497-9de1-afa54b0cfa34/resourceGroups/AI-Engineer-Learning/providers/Microsoft.Web/sites/self-service-hr-client",
+    "appService.deploySubpath": "."
+}
