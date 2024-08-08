@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Sidebar from './Sidebar';
 import Onboarding from './Onboarding';
 import TimeOffManagement from './TimeOffManagement';
 import Payroll from './Payroll';
@@ -13,20 +14,9 @@ function Dashboard() {
     const [activeComponent, setActiveComponent] = useState('Onboarding');
 
     return (
-        <div>
-            <h1>HR Dashboard</h1>
-            <div>
-                <button onClick={() => setActiveComponent('Onboarding')}>Onboarding</button>
-                <button onClick={() => setActiveComponent('TimeOffManagement')}>Time Off Management</button>
-                <button onClick={() => setActiveComponent('Payroll')}>Payroll</button>
-                <button onClick={() => setActiveComponent('Benefits')}>Benefits</button>
-                <button onClick={() => setActiveComponent('PerformanceManagement')}>Performance Management</button>
-                <button onClick={() => setActiveComponent('EmployeeSupport')}>Employee Support</button>
-                <button onClick={() => setActiveComponent('Training')}>Training</button>
-                <button onClick={() => setActiveComponent('TalentAcquisition')}>Talent Acquisition</button>
-                <button onClick={() => setActiveComponent('HeadcountPlanning')}>Headcount Planning</button>
-            </div>
-            <div>
+        <div className="flex">
+            <Sidebar setActiveComponent={setActiveComponent} />
+            <div className="flex-1 p-6 bg-gray-100">
                 {activeComponent === 'Onboarding' && <Onboarding />}
                 {activeComponent === 'TimeOffManagement' && <TimeOffManagement />}
                 {activeComponent === 'Payroll' && <Payroll />}
