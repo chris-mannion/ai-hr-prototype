@@ -11,7 +11,7 @@ function Sidebar({ setActiveComponent }) {
             <button onClick={() => setActiveComponent('PerformanceManagement')} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded">Performance</button>
             <button onClick={() => setActiveComponent('EmployeeSupport')} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded">Support</button>
             <button onClick={() => setActiveComponent('Training')} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded">Training</button>
-            <button onClick={() => setActiveComponent('TalentAcquisition')} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded">Talent</button>
+            <button onClick={() => setActiveComponent('TalentAcquisition')} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded">Talent Acq.</button>
             <button onClick={() => setActiveComponent('HeadcountPlanning')} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 mb-2 rounded">Headcount</button>
         </div>
     );

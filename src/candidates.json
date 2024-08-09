@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Alice Johnson",
+        "title": "Software Engineer",
+        "skills": ["JavaScript", "React", "Node.js"],
+        "location": "New York",
+        "experience": "3 years",
+        "company": "TechCorp",
+        "linkedin": "https://www.linkedin.com/in/alicejohnson"
+    },
+    {
+        "name": "Bob Smith",
+        "title": "Product Manager",
+        "skills": ["Product Management", "Agile", "Scrum"],
+        "location": "San Francisco",
+        "experience": "5 years",
+        "company": "InnovateX",
+        "linkedin": "https://www.linkedin.com/in/bobsmith"
+    },
+    {
+        "name": "Carol White",
+        "title": "Data Scientist",
+        "skills": ["Python", "Machine Learning", "SQL"],
+        "location": "Boston",
+        "experience": "4 years",
+        "company": "DataVisions",
+        "linkedin": "https://www.linkedin.com/in/carolwhite"
+    },
+    {
+        "name": "David Brown",
+        "title": "UX Designer",
+        "skills": ["Figma", "Sketch", "UI/UX Design"],
+        "location": "Austin",
+        "experience": "6 years",
+        "company": "DesignWorks",
+        "linkedin": "https://www.linkedin.com/in/davidbrown"
+    },
+    {
+        "name": "Emma Wilson",
+        "title": "Sales Manager",
+        "skills": ["Sales", "CRM", "Leadership"],
+        "location": "Chicago",
+        "experience": "7 years",
+        "company": "SalesForceCo",
+        "linkedin": "https://www.linkedin.com/in/emmawilson"
+    },
+    {
+        "name": "Frank Harris",
+        "title": "Software Engineer",
+        "skills": ["Java", "Spring Boot", "Microservices"],
+        "location": "Seattle",
+        "experience": "4 years",
+        "company": "CodeCraft",
+        "linkedin": "https://www.linkedin.com/in/frankharris"
+    },
+    {
+        "name": "Grace Lee",
+        "title": "Product Manager",
+        "skills": ["Product Strategy", "Market Research", "Roadmap Planning"],
+        "location": "Los Angeles",
+        "experience": "5 years",
+        "company": "ProductMinds",
+        "linkedin": "https://www.linkedin.com/in/gracelee"
+    },
+    {
+        "name": "Henry Taylor",
+        "title": "Data Scientist",
+        "skills": ["R", "Data Analysis", "Predictive Modeling"],
+        "location": "San Diego",
+        "experience": "3 years",
+        "company": "DataCrunchers",
+        "linkedin": "https://www.linkedin.com/in/henrytaylor"
+    },
+    {
+        "name": "Ivy Walker",
+        "title": "UX Designer",
+        "skills": ["User Research", "Prototyping", "Wireframing"],
+        "location": "Denver",
+        "experience": "6 years",
+        "company": "CreativeSolutions",
+        "linkedin": "https://www.linkedin.com/in/ivywalker"
+    },
+    {
+        "name": "Jack Martinez",
+        "title": "Sales Manager",
+        "skills": ["B2B Sales", "Negotiation", "Team Management"],
+        "location": "Miami",
+        "experience": "8 years",
+        "company": "BizSales",
+        "linkedin": "https://www.linkedin.com/in/jackmartinez"
+    },
+    {
+        "name": "Karen Davis",
+        "title": "Software Engineer",
+        "skills": ["C#", ".NET Core", "Azure"],
+        "location": "Dallas",
+        "experience": "5 years",
+        "company": "SoftTech",
+        "linkedin": "https://www.linkedin.com/in/karendavis"
+    },
+    {
+        "name": "Liam Clark",
+        "title": "Product Manager",
+        "skills": ["Customer Insights", "Agile Methodologies", "Product Launch"],
+        "location": "Atlanta",
+        "experience": "6 years",
+        "company": "Prodigy",
+        "linkedin": "https://www.linkedin.com/in/liamclark"
+    },
+    {
+        "name": "Mia Hernandez",
+        "title": "Data Scientist",
+        "skills": ["Python", "Deep Learning", "NLP"],
+        "location": "San Francisco",
+        "experience": "4 years",
+        "company": "AI Innovators",
+        "linkedin": "https://www.linkedin.com/in/miahernandez"
+    },
+    {
+        "name": "Noah King",
+        "title": "UX Designer",
+        "skills": ["Interaction Design", "User Testing", "Visual Design"],
+        "location": "Portland",
+        "experience": "7 years",
+        "company": "DesignHub",
+        "linkedin": "https://www.linkedin.com/in/noahking"
+    },
+    {
+        "name": "Olivia Moore",
+        "title": "Sales Manager",
+        "skills": ["Lead Generation", "Sales Strategy", "CRM Management"],
+        "location": "New York",
+        "experience": "6 years",
+        "company": "SalesPros",
+        "linkedin": "https://www.linkedin.com/in/oliviamoore"
+    }
+]
